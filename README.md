@@ -4,5 +4,5 @@
 05.Логирование и примитивная безопасность https://github.com/Anastasia-Semenova/05.-
 06.Session and BCrypt https://github.com/Anastasia-Semenova/06.-Session-BCrypt
 07.EntityMeneger https://github.com/Anastasia-Semenova/07.EntityMeneger
-10.AnnotationProcessing https://github.com/Anastasia-Semenova/10.AnnotationProcessing
+10.AnnotationProcessing https://github.com/Anastasia-Semenova/10.AnnotationProcessing (не до конца работает)
 
